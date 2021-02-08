@@ -1,4 +1,4 @@
-# Pizza CLI
+# Todo CLI
 
 Example TypeScript CLI with Node.js
 
